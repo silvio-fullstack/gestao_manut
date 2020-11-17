@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     'apps.manutencao',
     'apps.ordem_servico',
     'apps.producao',
+    'apps.setor',
 
 ]
 
